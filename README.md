@@ -1,10 +1,10 @@
-# Hello, I'm Nancy64-bit! 👋
+# Hello, I'm Nandini Chauhan! 👋
 
-Welcome to my GitHub profile! I'm passionate about [mention your interests, skills, or areas of focus, e.g., web development, open source, data science, etc.].
+Welcome to my GitHub profile! I'm passionate about Backend Development, Artificial Intelligence, Frontend Development as well as DevOps.
 
 ## About Me
 
-I'm a [mention your role, e.g., software engineer, student, hobbyist] based in [mention your location]. I love [mention a few hobbies or interests outside of coding, e.g., hiking, painting, cooking, etc.]. When I'm not coding, you can find me [mention what you like to do in your free time].
+I'm a graduate student based in India. I love coding in backend as well as frontend. When I'm not coding, you can find me writing or scrolling LinkedIn. I know English, Spanish, and Hindi.
 
 ## Projects
 
