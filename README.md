@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm passionate about Backend Development, Artificial Intelligence, Frontend Development as well as DevOps. I'm a graduate student based in India. I love coding in backend as well as frontend. When I'm not coding, you can find me writing or scrolling LinkedIn. I know English, Spanish, and Hindi.
 
 [![Nancy64-bit's GitHub | Stats](https://stats.quine.sh/Nancy64-bit/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Nancy64-bit)
-
 ## Projects
 
 
